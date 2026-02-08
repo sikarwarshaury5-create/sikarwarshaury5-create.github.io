@@ -169,7 +169,7 @@
         <h2>My Project</h2>
 
         <div class="project-card">
-            <img src="classes.html\Screenshot 2025-12-02 135809.png" alt="Brandify Project">
+            <img src="Screenshot 2025-12-02 135809.png" alt="Brandify Project">
             <h3>Brandify</h3>
             <p>E-commerce brand discovery website using HTML & CSS.</p>
             <a href="https://www.linkedin.com/in/shaury-sikarwar-a2b003381" target="_blank">
